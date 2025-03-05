@@ -1,0 +1,50 @@
+# Ignore arquivos do ambiente do Visual Studio
+.vscode/
+*.code-workspace
+
+# Ignore arquivos do .NET
+bin/
+obj/
+.vs/
+*.nuspec
+*.nupkg
+launchSettings.json
+
+project.lock.json
+project.assets.json
+
+# Ignore arquivos do Entity Framework Migrations
+Migrations/
+
+# Ignore arquivos do SQL Server e banco local
+*.mdf
+*.ldf
+*.suo
+*.bak
+*.dbmdl
+*.sqlite
+*.sqlproj.user
+
+# Ignore arquivos de log e cache
+*.log
+logs/
+debug/
+
+# Ignore arquivos de autenticação e segredos
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+# Ignore arquivos do Node.js e Angular
+node_modules/
+package-lock.json
+dist/
+.angular/
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos do JetBrains Rider
+.idea/
+*.iml
