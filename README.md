@@ -41,7 +41,7 @@
    - Gerador e validação de JWT
    - Paginação
 
-🧪 Testes Automatizados
+## 🧪 Testes Automatizados
 O projeto conta com testes automatizados utilizando o framework xUnit, focando na validação das regras de negócio e no comportamento dos serviços da aplicação. 
 
  ## 🛢️ Banco de Dados
